@@ -1,0 +1,21 @@
+.navbarColor{
+    background-color: #80207a !important;
+}
+
+body{
+    background-color: #f7aaea;
+}
+/* .Description{
+    position: absolute;
+    left:0;
+    bottom: 0;
+    opacity: 0;
+} */
+/* .item:hover .Description{
+    opacity: 1;
+    background-color: #fff;
+    transition: opacity 0.9s ease-in-out;
+} */
+img{
+    height:410px;
+}
