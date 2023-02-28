@@ -1,7 +1,5 @@
 
-var rest= function(){
-  return a+b
-}
+
 
 var url=`https://makeup-api.herokuapp.com/api/v1/products.json`
 async function repo(){
