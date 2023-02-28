@@ -48,7 +48,7 @@ function makeupItems(items){
     items.forEach((element,index)=>{
       //  if(element.category=='lipstick'){
    
-    if(index<=50){
+    if(index<=150){
         console.log(index)
 
         console.log(element)
